@@ -1,0 +1,10 @@
+{
+    "prj_db": {
+        "path": "Database/Project database/flows",
+        "description": "File path of the project database flows"
+    },
+    "exio_H": {
+        "path": "C:/Users/nicog/Politecnico di Milano/DENG-SESAM - Documenti/DATASETS/Exiobase Hybrid 3.3.18",
+        "description": "File path of the Exiobase Hybrid 3.3.18 dataset"
+    }
+}
